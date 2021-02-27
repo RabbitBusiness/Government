@@ -37,4 +37,41 @@ For manual requests to the vote address you can use this dApp <a href="https://u
     <li><a href="https://github.com/shakesSA">Shakes</a></li>
 </ul>
 
+How to Submit a Proposal
+Steps
+Start a new topic in Proposal in Forum 36. It can be a solid plan or just an idea.
+Discuss with the community in Forum for at least 24 hours before voting
+Write a proposal to conclude the whole idea
+Proposal MUST have a proper title to reveal the core idea
+Proposal MUST begin with Summary section (in short, please)
+Proposal MUST have Action Item section for explaining each voting option explicitly
+Proposal SHOULD use “For” / “Against” as options in binary decision
+Proposal SHOULD provide “No Change Required” as option in multiple choice
+Proposal CAN have Background, Motivation, Specification or any other aspect to support the idea, or use EIP template 5
+Submit the proposal along with topic link in Snapshot 20 by holding 100,000 SNTVT at least, which is also the minimum requirement for a proposal to list in Snapshot, and the voting period must be longer than 72 hours
+Comment in the topic with the voting link
+
+Voting Power
+Your voting power = average of (A + B)
+
+A: SNTVT in the wallet
+B: SNTVT from your SNTVT-DAI (VLP) token in the wallet
+
+
+
+Note: four-weeks average is calculated by the balance at these 5 particular timings (equally weighted):
+
+At the block number designated by the Snapshot voting
+7 days prior to the block number
+14 days prior to the block number
+21 days prior to the block number
+28 days prior to the block number
+Warning
+If a proposal does not follow these steps, it is invalid
+If a proposal does not get more than 250,000,000 SNTVT votes in total, it is invalid
+All rules can be modified by a valid proposal, but “fully discussed with the community” should be the principle
+All rules apply to the community and the team
+
+
+
 <small>COPYRIGHT © 2021 <a href="https://universalweb.io">UNIVERSAL WEB, Inc</a></small>
